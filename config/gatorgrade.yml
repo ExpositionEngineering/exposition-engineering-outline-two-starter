@@ -8,8 +8,8 @@ setup: |
 # Checks on Files {{{
 
 # perform checks on a file
-- writing/outlines/show_outline_one.md:
-    - description: Ensure that the show_outline_one.md file exists in the writing/outlines/ directory
+- writing/outlines/show_outline_two.md:
+    - description: Ensure that the show_outline_two.md file exists in the writing/outlines/ directory
       check: ConfirmFileExists
     - description: Complete all TODOs, remove the TODO markers, and rewrite comments for the outline
       check: MatchFileFragment
@@ -89,10 +89,10 @@ setup: |
         fragment: "**Question"
         count: 3
         exact: false
-    - description: Delete the 'Sub-Section One' prompt in the outline file
+    - description: Delete the 'Sub-Section two' prompt in the outline file
       check: MatchFileFragment
       options:
-        fragment: "Sub-Section One"
+        fragment: "Sub-Section two"
         count: 0
         exact: true
     - description: Delete the 'Sub-Section Two' prompt in the outline file
@@ -153,7 +153,7 @@ setup: |
 
 # run a check
 - description: Confirm that the show outline files passes the linting checks run by pymarkdownlnt
-  command: "pymarkdown --config .pymarkdown.cfg scan writing/outlines/show_outline_one.md"
+  command: "pymarkdown --config .pymarkdown.cfg scan writing/outlines/show_outline_two.md"
 
 # }}}
 
