@@ -19,11 +19,11 @@
 ## 🏁 Introduction
 
 This project invites you to write a show outline for a podcast on the topic of
-picking an academic major at an undergraduate at an institution like Allegheny
-College. In addition to writing all of the required content in the file
+picking an academic major at an undergraduate like Allegheny College. In
+addition to writing all of the required content in the file
 [writing/outlines/show_outline_two.md](writing/outlines/show_outline_two.md),
-you will practice the use of `git` and GitHub and learn how to check the writing
-in a Markdown file through the use of tools like the
+you will practice the use of `git` and GitHub and learn how to check the
+writing in a Markdown file through the use of tools like the
 [GatorGrade](https://github.com/GatorEducator/gatorgrade) program that runs the
 automated grading checks provided by
 [GatorGrader](https://github.com/GatorEducator/gatorgrader).
