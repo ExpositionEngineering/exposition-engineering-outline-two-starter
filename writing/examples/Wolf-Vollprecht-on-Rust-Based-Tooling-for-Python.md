@@ -159,7 +159,7 @@ McNamara on Rust" and Episode 562, "Bastian Gruber on Rust Web Development".
        - poetry
 
     - The description of rip mentions that it uses "aggressive caching of PyPI
-    metadata" What is this type of caching and why is it needed and useful?
+    meta-data" What is this type of caching and why is it needed and useful?
 
     - Rip also uses the Rust-based Resolvo package. Questions:
         - Resolvo performs constraint solving. Can you give a concrete example
