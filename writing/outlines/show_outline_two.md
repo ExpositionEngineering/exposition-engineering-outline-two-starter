@@ -4,7 +4,7 @@
 
 <!---toc start-->
 
-* [Show Outline Two](#show-outline-one)
+* [Show Outline Two](#show-outline-two)
   * [✨ Table of Contents](#-table-of-contents)
   * [Add Your Name Here](#add-your-name-here)
   * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
