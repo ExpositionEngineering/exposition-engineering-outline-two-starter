@@ -35,9 +35,9 @@ means that you may need to schedule a meeting during the course instructor's
 office hours to discuss aspects of this project. Finally, it is important to
 point out that your repository for this project was created from the GitHub
 repository template called
-[exposition-engineering-outline-two-starter](https://github.com/Exposititwongineering/exposition-engineering-outline-two-starter);
-you can check this repository for any updates to this project's documentation or
-source code!
+[exposition-engineering-outline-two-starter](https://github.com/ExpositionEngineering/exposition-engineering-outline-two-starter);
+you can check this repository for any updates to this project's documentation
+or source code!
 
 ## 🤝 Seeking Assistance
 
