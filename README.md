@@ -39,6 +39,9 @@ repository template called
 you can check this repository for any updates to this project's documentation
 or source code!
 
+**The episode that you produce for show number two should have a different
+topic and a different guest than the topic and guest for show number one.**
+
 ## 🤝 Seeking Assistance
 
 Even though the course instructor will have covered all of the concepts central
